@@ -7,8 +7,8 @@ A C# console application that implements a command-line interface-based inventor
 ## Submitted By:
 
 **Niña Jezreen M. Bron**  
-BSIT-3A
-Bicol University Polangui  
+**BSIT-3A**
+**Bicol University Polangui**  
 
 ---
 
