@@ -68,7 +68,7 @@ A C# console application that implements a command-line interface-based inventor
 3. Go to File → Open → Project/Solution
 4. Select InventorySystem.csproj
 5. Press Ctrl + F5 to run
-6. Login with username `admin` and password `admin123`
+6. Login with username `admin` and password `admin123` or username `staff` and password `staff123`
 ---
 
 ## Storage
