@@ -9,7 +9,6 @@ A C# console application that implements a command-line interface-based inventor
 **Niña Jezreen M. Bron**  
 **BSIT-3A**
 
-
 **Bicol University Polangui**  
 
 ---
@@ -63,11 +62,13 @@ A C# console application that implements a command-line interface-based inventor
 
 1. Clone the repository:
    ```
-   git clone https://github.com/JezreenB/CLI-Based-Inventory-System.git
+   git clone https://github.com/JezreenB/Bron-Midterm-Lab-Exam.git
    ```
-2. Open the `.slnx` file in **Visual Studio**
-3. Press **Ctrl + F5** to run
-
+2. Open Visual Studio
+3. Go to File → Open → Project/Solution
+4. Select InventorySystem.csproj
+5. Press Ctrl + F5 to run
+6. Login with username `admin` and password `admin123`
 ---
 
 ## Storage
